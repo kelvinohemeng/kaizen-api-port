@@ -4,7 +4,7 @@
       "id": 4,
       "title": "9 Lessons and Carols",
       "owner": "St. John's University",
-      "category": "religious event",
+      "category": "av design",
       "date": "December 2021",
       "images": [
         "kaizen/projects/9_lessons_and_carols/00.jpg",
@@ -20,7 +20,7 @@
       "id": 5,
       "title": "ABC Studios",
       "owner": "ABC Media Group",
-      "category": "media production",
+      "category": "conferencing",
       "date": "September 2023",
       "images": [
         "kaizen/projects/abc_studios/00.jpg",
@@ -35,7 +35,7 @@
       "id": 6,
       "title": "ABSA Signage",
       "owner": "ABSA Bank",
-      "category": "branding",
+      "category": "av design",
       "date": "July 2022",
       "images": [
         "kaizen/projects/absa_signage/00.jpg",
@@ -50,7 +50,7 @@
       "id": 7,
       "title": "AFBS",
       "owner": "African Business Solutions",
-      "category": "business services",
+      "category": "interactive media",
       "date": "May 2022",
       "images": [
         "kaizen/projects/afbs/00.jpg",
@@ -80,7 +80,7 @@
       "id": 9,
       "title": "African CaCus",
       "owner": "African Cultural Center",
-      "category": "cultural event",
+      "category": "conferencing",
       "date": "February 2022",
       "images": [
         "kaizen/projects/africancaucus/00.jpg",
@@ -95,7 +95,7 @@
       "id": 11,
       "title": "AGCC",
       "owner": "African Green Climate Fund",
-      "category": "environment",
+      "category": "av design",
       "date": "April 2023",
       "images": [
         "kaizen/projects/agcc/00.jpg",
@@ -110,7 +110,7 @@
       "id": 12,
       "title": "Airport Expansion",
       "owner": "Ghana Airports Company",
-      "category": "infrastructure",
+      "category": "system intergration",
       "date": "July 2022",
       "images": [
         "kaizen/projects/airport/00.jpg",
@@ -140,7 +140,7 @@
       "id": 14,
       "title": "AMOT",
       "owner": "A Mind of Time",
-      "category": "art exhibition",
+      "category": "av design",
       "date": "October 2022",
       "images": [
         "kaizen/projects/amot/00.jpg",
@@ -170,7 +170,7 @@
       "id": 16,
       "title": "ATF",
       "owner": "Accra Tech Festival",
-      "category": "technology event",
+      "category": "av design",
       "date": "September 2022",
       "images": [
         "kaizen/projects/atf/00.jpg",
@@ -185,7 +185,7 @@
       "id": 17,
       "title": "Champions League Final",
       "owner": "UEFA",
-      "category": "sports event",
+      "category": "conferencing",
       "date": "May 2023",
       "images": [
         "kaizen/projects/champs_league/01.jpg",
@@ -199,7 +199,7 @@
       "id": 18,
       "title": "Chango",
       "owner": "Chango Company Ltd.",
-      "category": "product launch",
+      "category": "conferencing",
       "date": "March 2022",
       "images": [
         "kaizen/projects/chango/00.jpg",
